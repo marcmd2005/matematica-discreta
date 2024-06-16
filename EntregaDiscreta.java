@@ -41,9 +41,9 @@ import java.util.stream.Stream;
  *
  * Podeu fer aquesta entrega en grups de com a màxim 3 persones, i necessitareu com a minim Java 10.
  * Per entregar, posau a continuació els vostres noms i entregau únicament aquest fitxer.
- * - Nom 1: Martín Serra Rubio
- * - Nom 2: Javier Vivo Samaniego
- * - Nom 3: Cristian Morales García
+ * - Nom 1: Marc Mateu Deyá
+ * - Nom 2: Carlos Rey Gallego
+ * - Nom 3: Miguel Perona March
  *
  * L'entrega es farà a través d'una tasca a l'Aula Digital que obrirem abans de la data que se us
  * hagui comunicat i vos recomanam que treballeu amb un fork d'aquest repositori per seguir més
